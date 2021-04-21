@@ -2,6 +2,9 @@
 
 [![lion7's GitHub stats](https://github-readme-stats.vercel.app/api?username=lion7)](https://github.com/lion7)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lion7&" alt="lion7"/></p>
+
+
 <!--
 **lion7/lion7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
